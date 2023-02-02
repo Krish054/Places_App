@@ -1,4 +1,4 @@
-# Places App 🏙️⛰️📷
+# Places App 🏙️📷
 
 A simple flutter app made to demonstrate the integration of camera and google maps in an app.
 
