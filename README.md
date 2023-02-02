@@ -1,6 +1,6 @@
 # Places App 🏙️📷
 
-A simple flutter app made to demonstrate the integration of camera and google maps in an app.
+A simple flutter app made to demonstrate the integration and features of camera, google maps, SQLite database and storing files and images on the device.
 
 ## Getting Started
 
